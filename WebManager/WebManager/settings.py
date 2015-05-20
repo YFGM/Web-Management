@@ -96,3 +96,6 @@ TEMPLATE_DIRS = (
     # Don't forget to use absolute paths, not relative paths.
     TEMPLATE_PATH,
 )
+
+ENCRYPTED_FIELDS_KEYDIR = "C:\\fieldkeys"
+LOGIN_URL = '/admin/login/'
